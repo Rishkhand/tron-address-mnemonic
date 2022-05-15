@@ -6,7 +6,7 @@
   "author": "CarmeloCampos <carmelogunsroses@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "publish:npm": "yarn publish --access public"
+    "publish:npm": "npm publish --access public"
   },
   "dependencies": {
     "bip32": "^2.0.4",
