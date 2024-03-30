@@ -5,17 +5,17 @@
   "main": "main.js",
   "author": "CarmeloCampos <carmelogunsroses@gmail.com>",
   "license": "MIT",
-  "scripts": {
+  "scripts": {THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC
     "publish:npm": "npm publish --access public"
   },
-  "dependencies": {
+  "dependencies": {THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC
     "bip32": "^2.0.4",
     "bip39": "^3.0.2",
     "tronweb": "^3.0.0"
   },
-  "repository": {
+  "repository": {THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC
     "type": "git",
-    "url": "https://github.com/CarmeloCampos/tron-address-mnemonic"
+    "url": "https://github.com/CarmeloCampos/THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC-mnemonic"
   },
   "homepage": "https://github.com/CarmeloCampos/tron-address-mnemonic"
 }
