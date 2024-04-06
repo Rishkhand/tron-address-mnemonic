@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "generate hd address and mnemonic that is compatible with new tronlink",
   "main": "main.js",
-  "author": "CarmeloCampos <carmelogunsroses@gmail.com>",
+  "author": "saeedParhizkar <autolove2019@gmail.com>",
   "license": "MIT",
   "scripts": {
     "publish:npm": "npm publish --access public"
@@ -13,9 +13,9 @@
     "bip39": "^3.0.2",
     "tronweb": "^3.0.0"
   },
-  "repository": {
+  "repository": {THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC
     "type": "git",
     "url": "https://github.com/CarmeloCampos/tron-address-mnemonic"
   },
-  "homepage": "https://github.com/CarmeloCampos/tron-address-mnemonic"
+  "homepage": "https://github.com/CarmeloCampos/THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC-mnemonic"
 }
